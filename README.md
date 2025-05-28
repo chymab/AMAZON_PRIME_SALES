@@ -82,7 +82,7 @@ PROBLEM STATEMENT
    
       
     - Everything that the sellers need to know about their sales has been highlighted in one visual.
-   
+       ![image](https://github.com/chymab/AMAZON_PRIME_SALES/blob/main/amazon_sales1.png)
       
     - This visual divides the image into two halves to showcase the number ,of large product sales from the non large with the stock level overview indicating result 
       accuracy.
