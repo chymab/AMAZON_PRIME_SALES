@@ -27,6 +27,8 @@ PROBLEM STATEMENT
 
   DATA ANALYSIS
 
+  ![image](https://github.com/chymab/AMAZON_PRIME_SALES/blob/main/amazon_sales2.png)
+
     - From the sales overview,the female wears and  baby accesories made a huge boost in sales without a significant increase in discount.
 
   
