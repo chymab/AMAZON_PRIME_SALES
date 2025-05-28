@@ -86,7 +86,7 @@ PROBLEM STATEMENT
       
     - This visual divides the image into two halves to showcase the number ,of large product sales from the non large with the stock level overview indicating result 
       accuracy.
- 
+       ![image](https://github.com/chymab/AMAZON_PRIME_SALES/blob/main/amazon_sales3.png)
       
     - The sellers performances were recorded using colours for easy identification,same with the mode of deliveries.
    
